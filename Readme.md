@@ -191,7 +191,7 @@ A função `iniciarSistema()` utiliza `async/await` para aguardar o carregamento
 Repositório no GitHub:
 
 ```text
-Adicionar link aqui
+https://github.com/denisoncruz-sctech/resolucao-projeto
 ```
 
 Quadro Trello:
