@@ -44,7 +44,7 @@ class VagaFrontEnd extends Vaga {
 const vagas = [
   {
     id: 1,
-    empresa: "TechStart",
+    empresa: "Itau",
     cargo: "Desenvolvedor Front-End Junior",
     requisitos: ["JavaScript", "GitHub", "Lógica de Programação"],
     salario: 5000,
@@ -52,7 +52,7 @@ const vagas = [
   },
   {
     id: 2,
-    empresa: "CodeLab",
+    empresa: "TechLab",
     cargo: "Estágio Front-End",
     requisitos: ["JavaScript", "Kanban", "GitHub"],
     salario: 3000,
@@ -60,7 +60,7 @@ const vagas = [
   },
   {
     id: 3,
-    empresa: "WebSolutions",
+    empresa: "StarianSolutions",
     cargo: "Programador JavaScript Junior",
     requisitos: ["JavaScript", "Arrays", "Objetos", "Funções"],
     salario: 3000,
